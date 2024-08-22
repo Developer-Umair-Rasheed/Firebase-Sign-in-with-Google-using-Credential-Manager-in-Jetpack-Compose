@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402600397573",
+    "project_id": "app---signin",
+    "storage_bucket": "app---signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402600397573:android:d4a29792171a6bb2ac456c",
+        "android_client_info": {
+          "package_name": "com.umairrasheed.firebaegooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402600397573-gn62jqqi7gakhcnf0ghg782bq2ftdjgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF3VAe6BqkgcSnZUex1MfR8Qld2nS8lzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402600397573-gn62jqqi7gakhcnf0ghg782bq2ftdjgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
